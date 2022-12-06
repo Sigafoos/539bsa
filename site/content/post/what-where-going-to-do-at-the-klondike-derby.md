@@ -1,5 +1,5 @@
 ---
-title: What where going to do at the Klondike Derby
+title: What we're going to do at the Klondike Derby
 date: 2022-12-05T23:30:34.240Z
 description: " "
 image: img/klondike.png
