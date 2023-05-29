@@ -6,7 +6,7 @@ image: ""
 ---
 ![Picture of Troop 539 Scouts, Leaders, and Moms and registration before entering the trail.](img/fb_img_1676975572980.jpg "Registering to go on the trail")
 
-This year Troop 539 went to the Adirondacks(ADKS). The first night everyone got there Paul, Dylan Isaiah, and Dan slept on couches; Brandon slept in a chair; Ty, Simon, Ryon, and Emmet slept on the floor and the adults got the beds. 
+This year Troop 539 went to the Adirondacks(ADKS). The first night everyone got there Paul, Dylan, Isaiah, and Dan slept on couches; Brandon slept in a chair; Ty, Simon, Ryon, and Emmet slept on the floor and the adults got the beds. 
 
 Day 1 in the morning we got up had breakfast then went snowshoeing in the High Peaks region. The Duckies went to Avalanche Pass about 10 miles and the Biscuits went up Mount Colden about 7 miles but it is a harder trail so it would take longer to go there and back to ADk lodge. Then everyone went back to the cabin and had dinner which was meatball bombers, then went to bed. 
 
