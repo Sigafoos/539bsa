@@ -16,3 +16,5 @@ Philmont is a high adventure base in New Mexico and is 1 of the 4 high adventure
 <!--EndFragment-->
 
 ![](img/599753db89768.image.jpg)
+
+Philmont is a beautifull scout ranch where scouts go and hike for a7,9,10, or 12 day trek. Troop 539 will be going on a 9 day trek in 2025.
