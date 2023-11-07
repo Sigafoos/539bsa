@@ -6,7 +6,7 @@ image: img/philmont-hikers-.jpg
 ---
 <!--StartFragment-->
 
-Philmont is a high adventure base in New Mexico and is 1 of the 4 high adventure bases in the USA. The trip's total cost is $2,000. First payment is $150, second is $750 and Third is $750 and you have to pay for the transportation.
+Philmont is a high adventure base in New Mexico and is 1 of the 4 high adventure bases in the USA. The trip's total cost is ~ $2,000. First payment is $150, second is $750 and Third is $750 and you have to pay for the transportation.
 
  RISK ADVISORY     
 
@@ -17,4 +17,4 @@ Philmont is a high adventure base in New Mexico and is 1 of the 4 high adventure
 
 ![](img/599753db89768.image.jpg)
 
-Philmont is a beautifull scout ranch where scouts go and hike for a7,9,10, or 12 day trek. Troop 539 will be going on a 9 day trek in 2025.
+Philmont is a beautiful scout ranch where scouts go and hike for a 7, 9, 10, or 12 day trek. Troop 539 will be going on a 9 day trek in 2025. UPDATES TO FOLLOW!
