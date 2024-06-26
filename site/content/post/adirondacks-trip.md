@@ -2,9 +2,9 @@
 title: Adirondacks Trip
 date: 2023-02-23T21:12:24.584Z
 author: Dan Shirley
-image: ""
+image: img/fb_img_1676975572980.jpg
 ---
-![Picture of Troop 539 Scouts, Leaders, and Moms at registration before entering the trail.](img/fb_img_1676975572980.jpg "Registering to go on the trail")
+
 
 This year Troop 539 went to the Adirondacks(ADKS). The first night everyone got there Paul, Dylan, Isaiah, and Dan slept on couches; Brandon slept in a chair; Ty, Simon, Ryon, and Emmet slept on the floor; Neil slept on a table and the adults got the beds. 
 
