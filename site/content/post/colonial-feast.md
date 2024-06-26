@@ -1,7 +1,7 @@
 ---
 title: Colonial Feast
 date: 2023-02-06T23:30:44.694Z
-author: Paul
+author: Paul Poleon jr.
 image: ""
 ---
 This November, Troop 539 hosted their latest “Colonial feast,” yet this year, they ran it under a different name, “Turkey in the Woods” is the name the Troop dubbed as a call back to many years ago when the “Colonial feast” ran under the same name. This is also the first feast since Stonehaven, the campsite the Troop used for most of their feasts, shut down. The feast was hosted at Don Miller park, a beautiful camp that hosted our scouts. 
